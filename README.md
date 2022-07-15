@@ -23,4 +23,23 @@ The logistic regression is slightly better than the LDA algorithm.
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/3.png?raw=true" width="300" />
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/4.png?raw=true" width="300" /> 
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/5.png?raw=true" width="300" /> 
-</p>
+</p> 
+
+## 3. Covid Cases Prediction:
+
+Classification using classic and ensemble machine learning algortihms to classifiy new cases to a closer status.
+<p float="left">
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/6.png?raw=true" width="300" />
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/7.png?raw=true" width="300" /> 
+
+</p> 
+
+- Results: a tree based model with undersampling was our champoin model.
+<p float="left">
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/8.png?raw=true" width="300" />
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/9.png?raw=true" width="300" /> 
+
+</p> 
+
+
+
