@@ -9,3 +9,18 @@ The information is regarding orders,store location, and pizza components.
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/2.png?raw=true" width="270" /> 
 
 </p>
+
+## 2. Loan Prediction:
+
+Loan prediction using Logistic regresion and LDA.
+
+- Results:
+in comparison with the performance of the two algorithms used.
+There is no confidence difference between their performance, As the logistic regression metric was
+76.7% and the LDA metric was 75.5%.
+The logistic regression is slightly better than the LDA algorithm.
+<p float="left">
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/3.png?raw=true" width="200" />
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/4.png?raw=true" width="200" /> 
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/5.png?raw=true" width="200" /> 
+</p>
