@@ -37,7 +37,7 @@ Classification using classic and ensemble machine learning algortihms to classif
 - Results: a tree based model with undersampling was our champoin model.
 <p float="left">
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/8.png?raw=true" width="300" />
-  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/9.png?raw=true" width="300" /> 
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/9.png?raw=true" width="400" /> 
 
 </p> 
 
