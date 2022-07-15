@@ -20,7 +20,7 @@ There is no confidence difference between their performance, As the logistic reg
 76.7% and the LDA metric was 75.5%.
 The logistic regression is slightly better than the LDA algorithm.
 <p float="left">
-  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/3.png?raw=true" width="200" />
-  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/4.png?raw=true" width="200" /> 
-  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/5.png?raw=true" width="200" /> 
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/3.png?raw=true" width="300" />
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/4.png?raw=true" width="300" /> 
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/5.png?raw=true" width="300" /> 
 </p>
