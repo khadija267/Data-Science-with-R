@@ -42,8 +42,8 @@ Classification using classic and ensemble machine learning algortihms to classif
 
 </p> 
 
-## 4. Medical Case Prediction:
-Medical case prediction with a comparison of decision tree and neural network.
+## 4. Thyroid Disease Prediction:
+Thyroid Disease Prediction with a comparison of decision tree and neural network.
 <p float="left">
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/13.png?raw=true" width="400" />
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/14.png?raw=true" width="400" /> 
