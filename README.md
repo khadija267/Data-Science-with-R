@@ -9,7 +9,7 @@ Customer churn prediction using Framingham data set.We have 4711 records in trai
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/11.png?raw=true" width="400" /> 
   <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/12.png?raw=true" width="400" /> 
 </p
-
+<br>
 
 ## 2. Loan Prediction:
 
