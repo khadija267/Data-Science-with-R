@@ -11,18 +11,6 @@ Customer churn prediction using Framingham data set.We have 4711 records in trai
 </p
 
 
-
-
-
-## 1. Data Warehousing & OLAP:
-A database containing information for pizza seller.
-The information is regarding orders,store location, and pizza components.
-<p float="left">
-  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/1.png?raw=true" width="400" />
-  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/2.png?raw=true" width="300" /> 
-
-</p>
-
 ## 2. Loan Prediction:
 
 Loan prediction using Logistic regresion and LDA.
@@ -54,5 +42,13 @@ Classification using classic and ensemble machine learning algortihms to classif
 
 </p> 
 
+## 4. Data Warehousing & OLAP:
+A database containing information for pizza seller.
+The information is regarding orders,store location, and pizza components.
+<p float="left">
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/1.png?raw=true" width="400" />
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/2.png?raw=true" width="300" /> 
+
+</p>
 
 
