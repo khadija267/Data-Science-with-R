@@ -1,6 +1,19 @@
 # Data-Science-with-R
 
 Data science | Analysis problems solved in R programing language
+
+## 1. Churn Prediction:
+Customer churn prediction using Framingham data set.We have 4711 records in training data having churn value equal to yes in 1250 records and that is 26% of the training data.
+<p float="left">
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/10.png?raw=true" width="300" />
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/11.png?raw=true" width="300" /> 
+  <img src="https://github.com/khadija267/Data-Science-with-R/blob/main/images/12.png?raw=true" width="300" /> 
+</p
+
+
+
+
+
 ## 1. Data Warehousing & OLAP:
 A database containing information for pizza seller.
 The information is regarding orders,store location, and pizza components.
